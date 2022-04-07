@@ -1,6 +1,7 @@
 #include<stdio.h>
 /*
- * printing texts and ends with new line using printf 
+ * main: entry point
+ * return: printing texts and ends with new line using printf 
 */
 int main(void)
 {
