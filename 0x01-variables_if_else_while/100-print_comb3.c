@@ -8,10 +8,10 @@
  */
 int main(void)
 {
-int num,i;
+int num, i;
 for (num = 0; num < 10; num++)
 {
-for(i = 0; i < 10; i++)
+for (i = 0; i < 10; i++)
 {
 if (num > i || num == i)
 {
@@ -21,7 +21,7 @@ else
 {
 putchar(num + '0');
 putchar(i + '0');
-if (num == 8 && i==9)
+if (num == 8 && i == 9)
 {
 continue;
 }
