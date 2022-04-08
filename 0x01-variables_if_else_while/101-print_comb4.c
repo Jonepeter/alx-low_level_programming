@@ -1,17 +1,16 @@
 #include <stdio.h>
-
 /**
- * main - Print the combination of three different single digit numbers 
- *        
+ * main - Print the combination of three different single digit numbers
+ *
  *
  * Return: Always 0.
  */
 int main(void)
 {
-int num,i,j;
+int num, i, j;
 for (num = 0; num < 10; num++)
 {
-for(i = 0; i < 10; i++)
+for (i = 0; i < 10; i++)
 {
 for (j = 0; j < 10; j++)
 {
