@@ -14,7 +14,7 @@ for (i = 0; i < 10; i++)
 {
 for (j = 0; j < 10; j++)
 {
-if(num == i || num == j || i == j || num > i || i > j)
+if (num == i || num == j || i == j || num > i || i > j)
 {
 continue;
 }
