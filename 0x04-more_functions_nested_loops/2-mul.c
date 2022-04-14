@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * main - a program that used to perform product of two numbers 
+ * mul - Multiples two integers.
+ * @a: The first integer to be multiplied.
+ * @b: The second integer to be multiplied.
  *
- * Return: return m * n
+ * Return: The result of the multiplication.
  */
 int mul(int a, int b)
 {
