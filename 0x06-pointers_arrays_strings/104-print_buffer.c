@@ -1,5 +1,5 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
  * print_buffer - Prints a buffer 10 bytes at a time, starting with
@@ -42,4 +42,3 @@ void print_buffer(char *b, int size)
 	if (size <= 0)
 		printf("\n");
 }
-
