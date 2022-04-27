@@ -1,7 +1,8 @@
 #include "main.h"
+
 /**
- * _strlen_recursion - Returns Length of String
- * @s: string
+ * factorial - gets factorial of n
+ * @n: integer
  *
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
