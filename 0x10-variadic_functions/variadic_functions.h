@@ -18,4 +18,3 @@ typedef struct print
 } t_print;
 
 #endif
-© 2022 GitHub, Inc.
